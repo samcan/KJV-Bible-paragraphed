@@ -89,9 +89,9 @@ LaTeX file combining the individual files.
 * James - Initial version uploaded
 * 1 Peter
 * 2 Peter
-* 1 John
-* 2 John
-* 3 John
+* 1 John - Initial version uploaded
+* 2 John - Initial version uploaded
+* 3 John - Initial version uploaded
 * Jude - Initial version uploaded
 * Revelation
 
