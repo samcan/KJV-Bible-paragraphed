@@ -29,7 +29,7 @@ LaTeX file combining the individual files.
 
 ## Status
 * Genesis - Initial version uploaded
-* Exodus
+* Exodus - Initial version uploaded
 * Leviticus
 * Numbers
 * Deuteronomy
