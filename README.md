@@ -87,8 +87,8 @@ LaTeX file combining the individual files.
 * Philemon
 * Hebrews
 * James - Initial version uploaded
-* 1 Peter
-* 2 Peter
+* 1 Peter - Initial version uploaded
+* 2 Peter - Initial version uploaded
 * 1 John - Initial version uploaded
 * 2 John - Initial version uploaded
 * 3 John - Initial version uploaded
