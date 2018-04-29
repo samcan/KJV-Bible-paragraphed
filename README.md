@@ -28,7 +28,7 @@ the apocraphya) of the King James Version translation of the Bible, as well as a
 LaTeX file combining the individual files.
 
 ## Status
-* Genesis
+* Genesis - Initial version uploaded
 * Exodus
 * Leviticus
 * Numbers
