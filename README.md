@@ -48,7 +48,7 @@ LaTeX file combining the individual files.
 * Job
 * Psalms
 * Proverbs
-* Ecclesiastes
+* Ecclesiastes - Initial version uploaded
 * Song of Solomon
 * Isaiah
 * Jeremiah
