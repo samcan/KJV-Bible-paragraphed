@@ -35,7 +35,7 @@ LaTeX file combining the individual files.
 * Deuteronomy
 * Joshua
 * Judges
-* Ruth - Initial version uploaded
+* Ruth - Initial automatic version uploaded
 * 1 Samuel
 * 2 Samuel
 * 1 Kings
