@@ -92,7 +92,7 @@ LaTeX file combining the individual files.
 * 1 John - Initial version uploaded
 * 2 John - Initial version uploaded
 * 3 John - Initial version uploaded
-* Jude - Initial version uploaded
+* Jude - Initial automatic version uploaded
 * Revelation
 
 [1]: https://en.wikipedia.org/wiki/Chapters_and_verses_of_the_Bible   "Chapters and verses of the Bible - Wikipedia"
