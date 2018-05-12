@@ -52,7 +52,7 @@ def read_usfm_verse(line):
     # remove some other information tags.
     
     # find wordlist tags and remove them
-    pat_wordlist = r"(\\w\s*)(.*?)(\|.*?\\w\*)"
+    pat_wordlist = r"(\\[+]?w\s*)(.*?)(\|.*?\\[+]?w\*)"
     pat_wordlist_cmp = re.compile(pat_wordlist)
 
     verse = re.sub(pat_wordlist_cmp, r'\2', line)
