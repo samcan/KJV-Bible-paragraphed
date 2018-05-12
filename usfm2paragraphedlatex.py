@@ -57,7 +57,7 @@ def read_usfm_verse(line):
 
     verse = re.sub(pat_wordlist_cmp, r'\2', line)
 
-    matched_tags = ['\\ADD','\\ND', '\\F']
+    matched_tags = ['\\ADD','\\ND', '\\F', '\\P']
 
     pat_all_tags = r"(\\\w+\s*)"
     pat_all_tags_cmp = re.compile(pat_all_tags)
@@ -91,6 +91,11 @@ def read_usfm_line(line):
     pat_rsquote = r"’"
     pat_rsquote_cmp = re.compile(pat_rsquote)
     line = re.sub(pat_rsquote_cmp, "'", line)
+    
+    # replace paragraph character
+    pat_para = r"¶"
+    pat_para_cmp = re.compile(pat_para)
+    line = re.sub(pat_para_cmp, "\\P", line)
     
     # pull book ID
     pat_id = r"\\id\s*([\dA-Z]{3})"
